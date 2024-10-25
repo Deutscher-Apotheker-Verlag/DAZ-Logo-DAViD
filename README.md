@@ -9,6 +9,6 @@ https://github.com/Deutscher-Apotheker-Verlag/DAZ-Logo-DAViD/blob/main/jpg/DAZ_L
 https://github.com/Deutscher-Apotheker-Verlag/DAZ-Logo-DAViD/blob/main/jpg/DAZ_Logo2.jpg?raw=true
 https://github.com/Deutscher-Apotheker-Verlag/DAZ-Logo-DAViD/blob/main/jpg/DAZ_Logo3.jpg?raw=true
 
-https://github.com/Deutscher-Apotheker-Verlag/DAZ-Logo-DAViD/blob/main/png/DAZ_Logo1.pngraw=true
-https://github.com/Deutscher-Apotheker-Verlag/DAZ-Logo-DAViD/blob/main/png/DAZ_Logo2.pngraw=true
-https://github.com/Deutscher-Apotheker-Verlag/DAZ-Logo-DAViD/blob/main/png/DAZ_Logo3.pngraw=true
+https://github.com/Deutscher-Apotheker-Verlag/DAZ-Logo-DAViD/blob/main/png/DAZ_Logo1.png?raw=true
+https://github.com/Deutscher-Apotheker-Verlag/DAZ-Logo-DAViD/blob/main/png/DAZ_Logo2.png?raw=true
+https://github.com/Deutscher-Apotheker-Verlag/DAZ-Logo-DAViD/blob/main/png/DAZ_Logo3.png?raw=true
